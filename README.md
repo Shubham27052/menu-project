@@ -1,6 +1,8 @@
-A fully responsive Menu Project using React and Tailwind CSS. 
+A Menu Page built using React and Tailwind CSS. 
 
-The project displays the entire menu and can also filter and display food based on category (breakfast, lunch, shakes)
+- The project displays the entire menu
+- Can also filter and display food based on category (breakfast, lunch, shakes)
+- Fully responsive
 
 View Project here : https://64f5fa99c2ff7d065d0028cd--teal-manatee-31b3ea.netlify.app/
 
